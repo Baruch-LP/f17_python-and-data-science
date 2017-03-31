@@ -22,12 +22,14 @@ This syllabus and all its resources are in progress.
         - [flowing data - resource list]("http://flowingdata.com/2009/10/01/30-resources-to-find-the-data-you-need/")
         - [government data](https://www.data.gov/)
     - cleaning data
-    - finding significant results
+        - [open refine]()
+    -
+     finding significant results
     - using pandas
-        - [game dataset, part1]
-        - [game dataset, part2]
+        - [game dataset, part1]()
+        - [game dataset, part2]()
     - visualizing data
-        - [plotly]
+        - [plotly]()
     - OTHER:
         -
 
@@ -35,9 +37,6 @@ This syllabus and all its resources are in progress.
 - [Scipy Lecture Notes]("http://www.scipy-lectures.org/index.html")
     - [statistics with python]("http://www.scipy-lectures.org/packages/statistics/index.html")
 -
-
-## Prerequisites
-
 
 ## Week 1
 - explanation of python, statistics, data science, and data journalism
@@ -91,6 +90,7 @@ This syllabus and all its resources are in progress.
     - finding data sets
     - using cleaned data to answer our question
     - presenting data to readers
+    - cautionary tales
 - using pandas
 -
 
