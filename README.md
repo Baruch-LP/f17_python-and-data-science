@@ -41,6 +41,9 @@ This syllabus and all its resources are in progress.
 
 ## Week 1
 - explanation of python, statistics, data science, and data journalism
+- the power of story telling
+    - [Adam Savage Talk]()
+- github, classroom, and assignments
 - statistics:
     - probability
     - mean, median, mode
@@ -58,13 +61,13 @@ This syllabus and all its resources are in progress.
     - strings, string manipulation, string math
 
 ### Assignments
+- Create a github account, email me your username
 - Read Python and Data Analynis Chapters xx
-- Read Tidy Data
 - Exercise Set 1
-- Programming Project 1: Python Basics
+- Programming Project 1
 
 ### Notes
-- [link]()
+- [week 1 notes]()
 
 ## Week 2
 - python:
@@ -78,31 +81,41 @@ This syllabus and all its resources are in progress.
     - t test, between samples, within samples
     - linear regression
     - confidence interval
-- Data Cleaning
+- Using the iris flower data set
+    - pandas, matplotlib, seaborn
 - Descriptive versus Inferential Statistics
 ### Assignments
-- Programming Project 2: Data Cleaning and Descriptive Statistics
-    - NOTE TO SELF: mean, median, mode, std deviation, variance, functions from scratch!
+- Programming Project 2
+    - create charts and make assumptions about the data from your stats results in a python notebook
 - Read Python and Data Analysis Chapters xx
-- Read on Inferential Statistics
-- Read data journalism and data science article(s)
 
 ### Notes
-- [link]()
+- [week 2 notes]()
 
 ## Week 3
-- more inferential statistics
+- Review of descriptive statistics topics
 - data journalism:
     - asking a question
     - finding data sets
     - using cleaned data to answer our question
     - presenting data to readers
     - cautionary tales
-- using pandas
--
+- Using data set number 2
+    - pandas, matplotlib, seaborn part 2
+    - create a meaningful and accurate story from data
 
 ### Assignments
 
+
+### Notes
+- [week 3 notes]()
+
 ## Week 4
-- reporting on data sets
--
+- final project
+    - find your own data set about these specific topics
+    - interpret and analyze the data
+    - create a meaningful story
+### Assignments
+
+### Notes
+- [week 4 notes]()
