@@ -23,15 +23,16 @@ This syllabus and all its resources are in progress.
         - [government data](https://www.data.gov/)
     - cleaning data
         - [open refine]()
-    -
-     finding significant results
+    - finding significant results
+    - [iris flower dataset]()
+        - [tutorial]()
     - using pandas
         - [game dataset, part1]()
         - [game dataset, part2]()
     - visualizing data
         - [plotly]()
     - OTHER:
-        -
+        - [information is beautiful]("http://www.informationisbeautiful.net/")
 
 ### Tutorials and Outside Courses
 - [Scipy Lecture Notes]("http://www.scipy-lectures.org/index.html")
@@ -62,6 +63,9 @@ This syllabus and all its resources are in progress.
 - Exercise Set 1
 - Programming Project 1: Python Basics
 
+### Notes
+- [link]()
+
 ## Week 2
 - python:
     - functions, parameters, and function calls
@@ -82,6 +86,9 @@ This syllabus and all its resources are in progress.
 - Read Python and Data Analysis Chapters xx
 - Read on Inferential Statistics
 - Read data journalism and data science article(s)
+
+### Notes
+- [link]()
 
 ## Week 3
 - more inferential statistics
