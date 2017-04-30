@@ -42,7 +42,7 @@ This syllabus and all its resources are in progress.
 ## Week 1
 - explanation of python, statistics, data science, and data journalism
 - the power of story telling
-    - [Adam Savage Talk]()
+    - [Adam Savage Talk](https://www.youtube.com/watch?v=cXbXNV9-ZAg)
 - github, classroom, and assignments
 - statistics:
     - probability
