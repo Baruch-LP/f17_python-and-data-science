@@ -21,6 +21,7 @@ This syllabus and all its resources are in progress.
     - finding data sets
         - [flowing data - resource list]("http://flowingdata.com/2009/10/01/30-resources-to-find-the-data-you-need/")
         - [government data](https://www.data.gov/)
+        - [list of plenty data set sources](http://datajournalismhandbook.org/1.0/en/getting_data_0.html)
     - cleaning data
         - [open refine]()
     - finding significant results
@@ -33,6 +34,7 @@ This syllabus and all its resources are in progress.
         - [plotly]()
     - OTHER:
         - [information is beautiful]("http://www.informationisbeautiful.net/")
+    - [Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/index.html)
 
 ### Tutorials and Outside Courses
 - [Scipy Lecture Notes]("http://www.scipy-lectures.org/index.html")
@@ -43,6 +45,8 @@ This syllabus and all its resources are in progress.
 - explanation of python, statistics, data science, and data journalism
 - the power of story telling
     - [Adam Savage Talk](https://www.youtube.com/watch?v=cXbXNV9-ZAg)
+    - [persuasion and power of talking](https://www.youtube.com/watch?v=AL-PAzrpqUQ)
+    - [giving more meaning to data through stories](https://www.youtube.com/watch?v=6xsvGYIxJok)
 - github, classroom, and assignments
 - statistics:
     - probability
