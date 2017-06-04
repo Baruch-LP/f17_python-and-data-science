@@ -35,6 +35,16 @@ This syllabus and all its resources are in progress.
     - OTHER:
         - [information is beautiful]("http://www.informationisbeautiful.net/")
     - [Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/index.html)
+    - [Quick Tips For Reading Research Papers](https://medium.com/elysium-health/how-to-read-a-scientific-paper-695188037080)
+    - Open Access Journals:
+        - [eLife](https://elifesciences.org/)
+        - [Cell Reports](http://www.cell.com/cell-reports/home)
+        - [Journal of American Chemical Society](http://pubs.acs.org/journal/jacsat)
+        - [Journal of Nutrition](http://jn.nutrition.org/)
+        - [Nature Communications](https://www.nature.com/ncomms/)
+        - [New England Journal of Medicine](http://www.nejm.org/)
+        - [PLOS Biology](http://journals.plos.org/plosbiology/)
+        - [Royal Society Open Science](http://rsos.royalsocietypublishing.org/)
 
 ### Tutorials and Outside Courses
 - [Scipy Lecture Notes]("http://www.scipy-lectures.org/index.html")
