@@ -81,7 +81,7 @@ This syllabus and all its resources are in progress.
 - Programming Project 1
 
 ### Notes
-- [week 1 notes]()
+- [week 1 code]()
 
 ## Week 2
 - python:
@@ -104,7 +104,7 @@ This syllabus and all its resources are in progress.
 - Read Python and Data Analysis Chapters xx
 
 ### Notes
-- [week 2 notes]()
+- [week 2 code]()
 
 ## Week 3
 - Review of descriptive statistics topics
@@ -122,7 +122,7 @@ This syllabus and all its resources are in progress.
 
 
 ### Notes
-- [week 3 notes]()
+- [week 3 code]()
 
 ## Week 4
 - final project
@@ -132,4 +132,4 @@ This syllabus and all its resources are in progress.
 ### Assignments
 
 ### Notes
-- [week 4 notes]()
+- [week 4 code]()
