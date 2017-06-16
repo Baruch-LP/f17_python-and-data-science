@@ -28,8 +28,9 @@ This syllabus and all its resources are in progress.
     - [iris flower dataset]()
         - [tutorial]()
     - using pandas
-        - [game dataset, part1]()
+        - [game dataset, part1](https://www.dataquest.io/blog/pandas-python-tutorial/)
         - [game dataset, part2]()
+        - [pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
     - visualizing data
         - [plotly]()
     - OTHER:
@@ -57,7 +58,9 @@ This syllabus and all its resources are in progress.
     - [Adam Savage Talk](https://www.youtube.com/watch?v=cXbXNV9-ZAg)
     - [persuasion and power of talking](https://www.youtube.com/watch?v=AL-PAzrpqUQ)
     - [giving more meaning to data through stories](https://www.youtube.com/watch?v=6xsvGYIxJok)
-- github, classroom, and assignments
+- github
+- using the command line
+    - unix command line cheat sheet
 - statistics:
     - probability
     - mean, median, mode
@@ -75,10 +78,8 @@ This syllabus and all its resources are in progress.
     - strings, string manipulation, string math
 
 ### Assignments
-- Create a github account, email me your username
-- Read Python and Data Analynis Chapters xx
-- Exercise Set 1
-- Programming Project 1
+- Dataquest Intro to Python: Python Basics, Files and Loops, Booleans and If Statements, Challenge - Files, Loops, and Conditional Logic, List Operations, and Dictionaries
+- Read Python For Data Analysis Chapters 1, 2, 3, 5, 6, 10, 11
 
 ### Notes
 - [week 1 code]()
@@ -99,9 +100,8 @@ This syllabus and all its resources are in progress.
     - pandas, matplotlib, seaborn
 - Descriptive versus Inferential Statistics
 ### Assignments
-- Programming Project 2
-    - create charts and make assumptions about the data from your stats results in a python notebook
-- Read Python and Data Analysis Chapters xx
+- Dataquest Intro to Python: Introduction to Functions, Customizing Functions and Debugging Errors, Guided Project - Using Jupyter Notebook, Guided Project - Explore U.S. Births
+- Read Python For Data Analysis Chapters
 
 ### Notes
 - [week 2 code]()
@@ -119,7 +119,7 @@ This syllabus and all its resources are in progress.
     - create a meaningful and accurate story from data
 
 ### Assignments
-
+- Dataquest Intermediate Python and Pandas: Getting Started with NumPy, Computation with NumPy, Introduction to Pandas, Line Charts, 
 
 ### Notes
 - [week 3 code]()
